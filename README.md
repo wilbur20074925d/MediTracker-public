@@ -53,6 +53,7 @@ Public-facing website offering an overview of the MediTracker platform, its feat
 - ZHOU Yuran
 - FENG Moyuan
 - SUI He
+- WANG Yongzhi
 
 ### Supervisor
 
